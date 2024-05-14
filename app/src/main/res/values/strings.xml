@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">w6_4</string>
+
+    <!-- 액티비티 이름 -->
+
+    <string name="app_name1">act 1</string>
+    <string name="app_name2">act 2</string>
+    <string name="app_name3">act 3</string>
+
+    <!-- 액션 바 메뉴 아이템 -->
+    <string name="action_settings1">화면 1</string>
+    <string name="action_settings2">화면 2</string>
+    <string name="action_settings3">화면 3</string>
+
+<!--    <string name="action_settings3">인물 정보</string>-->
+<!--    <string name="action_settings4">삭제</string>-->
+<!--    <string name="action_settings5">수정</string>-->
+</resources>
