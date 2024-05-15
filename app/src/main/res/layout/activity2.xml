@@ -21,6 +21,8 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_weight="1">
 
+
+
     </FrameLayout>
 
     <LinearLayout
@@ -44,14 +46,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="F1" />
+            android:text="구글 지도" />
 
         <Button
             android:id="@+id/frag_button2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="F2" />
+            android:text="룰렛 게임" />
     </LinearLayout>
 
     <FrameLayout
